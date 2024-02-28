@@ -1,0 +1,22 @@
+{
+  "name": "microservices_book_customer_order",
+  "version": "1.0.0",
+  "description": "Nodejs Microservices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oshayer-Siddique/Microservices-Node-JS.git"
+  },
+  "author": "Oshayer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oshayer-Siddique/Microservices-Node-JS/issues"
+  },
+  "homepage": "https://github.com/Oshayer-Siddique/Microservices-Node-JS#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
